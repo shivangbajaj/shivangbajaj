@@ -1,7 +1,11 @@
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/shivangbajaj/shivangbajaj/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
-<img src="https://raw.githubusercontent.com/shivangbajaj/shivangbajaj/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
+<img src="https://raw.githubusercontent.com/shivangbajaj/shivangbajaj/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325">
+  <a href="https://linkedin.com/in/shivang-bajaj" target="_blank">
+</img>
+<img src="https://raw.githubusercontent.com/shivangbajaj/shivangbajaj/main/headergitlight.gif#gh-light-mode-only" align="center" height="325"> 
+    <a href="https://linkedin.com/in/shivang-bajaj" target="_blank">
+</img>
 </div>  
 
 <div align="center">
